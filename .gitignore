@@ -9,6 +9,11 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/[Pp]ackages/
+
+# temporary terrain data file
+/[Aa]ssets/ADTerrainStream/Terrain.data
+/[Aa]ssets/ADTerrainStream/Terrain.data.meta
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
